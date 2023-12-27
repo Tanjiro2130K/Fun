@@ -42,7 +42,6 @@
     "path": "^0.12.7",
     "pdfkit": "^0.13.0",
     "pino": "^7.11.0",
-    "pokenode-ts": "^1.14.0",
     "qr-image": "^3.2.0",
     "qrcode-terminal": "^0.12.0",
     "shentai": "^2.0.4",
