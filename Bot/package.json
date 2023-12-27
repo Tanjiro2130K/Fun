@@ -13,7 +13,7 @@
     "@discordjs/collection": "^0.6.0",
     "@hapi/boom": "^9.1.4",
     "@shineiichijo/anime-news-network-scraper": "^1.0.1",
-    "@shineiichijo/canvas-chan": "^2.11.2",
+    "@shineiichijo/canvas-chan": "^1.0.1",
     "@shineiichijo/marika": "^2.0.3",
     "@shineiichijo/team-preview": "^1.1.6",
     "@typegoose/typegoose": "^9.9.0",
