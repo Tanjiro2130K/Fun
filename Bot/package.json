@@ -12,6 +12,7 @@
     "@adiwajshing/keyed-db": "^0.2.4",
     "@discordjs/collection": "^0.6.0",
     "@hapi/boom": "^9.1.4",
+    "@napi-rs/canvas": "^0.1.41",
     "@shineiichijo/anime-news-network-scraper": "^1.0.1",
     "@shineiichijo/marika": "^2.0.3",
     "@shineiichijo/team-preview": "^1.1.6",
